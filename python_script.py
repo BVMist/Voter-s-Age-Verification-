@@ -11,4 +11,5 @@ while True:
         age = int(age)
     except:
         print('Invalid Input.')
+        continue
     print(verify(age))
