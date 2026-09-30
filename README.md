@@ -1,4 +1,4 @@
-# Voter-s-Age-Verification-
+# Voter's Age Verification
 
 ## Environment Checklist
 - [×] Python Downloaded
